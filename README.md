@@ -1,4 +1,3 @@
-# PublicHolidayTracker
 # PublicHolidayTracker 🇹🇷
 
 Bu proje, Türkiye'deki resmi tatil günlerini **Nager.Date API** üzerinden çekerek kullanıcıya sunan, filtreleme ve arama işlemleri yapabilen bir **C# Konsol Uygulamasıdır**.
@@ -29,12 +28,17 @@ Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyeb
 
 1.  **Projeyi Klonlayın:**
     ```bash
-    git clone [https://github.com/KULLANICI_ADIN/PublicHolidayTracker.git](https://github.com/KULLANICI_ADIN/PublicHolidayTracker.git)
+    git clone [https://github.com/EmrGencer/PublicHolidayTracker.git](https://github.com/EmrGencer/PublicHolidayTracker.git)
+    ```
+
+2.  **Proje Klasörüne Girin:**
+    İç içe klasör yapısı nedeniyle proje dizinine gitmek için şu komutları sırasıyla uygulayın:
+    ```bash
+    cd PublicHolidayTracker
     cd PublicHolidayTracker
     ```
 
-2.  **Projeyi Çalıştırın:**
-    Terminal veya komut satırında şu komutu girin:
+3.  **Projeyi Çalıştırın:**
     ```bash
     dotnet run
     ```
