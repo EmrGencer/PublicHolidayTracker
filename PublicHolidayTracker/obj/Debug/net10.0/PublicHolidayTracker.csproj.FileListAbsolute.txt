@@ -1,0 +1,14 @@
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\PublicHolidayTracker\bin\Debug\net10.0\PublicHolidayTracker.exe
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\PublicHolidayTracker\bin\Debug\net10.0\PublicHolidayTracker.deps.json
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\PublicHolidayTracker\bin\Debug\net10.0\PublicHolidayTracker.runtimeconfig.json
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\PublicHolidayTracker\bin\Debug\net10.0\PublicHolidayTracker.dll
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\PublicHolidayTracker\bin\Debug\net10.0\PublicHolidayTracker.pdb
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\PublicHolidayTracker\obj\Debug\net10.0\PublicHolidayTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\PublicHolidayTracker\obj\Debug\net10.0\PublicHolidayTracker.AssemblyInfoInputs.cache
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\PublicHolidayTracker\obj\Debug\net10.0\PublicHolidayTracker.AssemblyInfo.cs
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\PublicHolidayTracker\obj\Debug\net10.0\PublicHolidayTracker.csproj.CoreCompileInputs.cache
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\PublicHolidayTracker\obj\Debug\net10.0\PublicHolidayTracker.dll
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\PublicHolidayTracker\obj\Debug\net10.0\refint\PublicHolidayTracker.dll
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\PublicHolidayTracker\obj\Debug\net10.0\PublicHolidayTracker.pdb
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\PublicHolidayTracker\obj\Debug\net10.0\PublicHolidayTracker.genruntimeconfig.cache
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\PublicHolidayTracker\obj\Debug\net10.0\ref\PublicHolidayTracker.dll
